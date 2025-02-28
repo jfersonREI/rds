@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@radix-ui/themes": "^3.2.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
